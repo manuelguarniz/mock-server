@@ -1,0 +1,24 @@
+{
+  "/api/users": [
+    {
+      "GET": {
+        "statusCode": 200,
+        "users": [
+          {
+            "id": 1,
+            "name": "Manuel",
+            "lastName": "Guarniz",
+            "age": 25
+          },
+          {
+            "id": 2,
+            "name": "Esteban",
+            "lastName": "Cruz",
+            "age": 21
+          }
+        ]
+      }
+    }
+  ]
+
+}
